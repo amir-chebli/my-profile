@@ -1,0 +1,62 @@
+h2, h3 {
+  font-family: "Helvetica", sans-serif;
+  color: #6ef5ab;
+}
+h1 {
+  color: #2D2B4E;
+  font-family: "Helvetica", sans-serif;
+  font-weight: bold;
+}
+body {
+  color: rgb(10, 10, 10); 
+  background-color: #f6f9fc;
+  font-family: Arial, sans-serif;
+  text-align: justify;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+.img-circle{
+  border-radius: 50%;
+}
+.container {
+  width: 700px;
+  margin: 40px auto; 
+}
+.card-white {
+  background: white;                      
+  padding: 30px;                          
+  border-radius: 4px;                     
+  box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+  margin: 10px 0px;  
+  border: 1px solid lightgrey;
+}
+.list-inline {
+  list-style: none; 
+  padding-left: 0px; 
+}
+.list-inline > li {
+  display: inline; 
+  padding: 0px 20px; 
+}
+.button{
+  padding: 15px 28px;
+  border-radius: 4px;
+  font-family: "Helvetica", sans-serif;
+  color: white;
+  background-color: #6c72e1; 
+  font-size: 16px;
+  font-weight: bolder;
+  border: 0px;
+}
+.face,.disc,.yout{
+  border-radius: 6px;
+  border: 0px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.2);
+  padding: 10px 20px;
+  word-spacing: 30px;
+  background-color: white;
+}
+.resize{
+  width: 30px;
+}
